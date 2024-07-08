@@ -35,6 +35,9 @@ importers:
       postcss:
         specifier: 8.4.38
         version: 8.4.38
+      punycode:
+        specifier: ^2.3.1
+        version: 2.3.1
       react:
         specifier: 19.0.0-rc-f994737d14-20240522
         version: 19.0.0-rc-f994737d14-20240522
